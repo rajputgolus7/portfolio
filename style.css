@@ -22,7 +22,7 @@ body, .top {
 
 .portfolio-img {
     max-width: 280px;
-    border-radius: 50%;
+    border-radius: 27%;
     border: 5px solid #ffffff22;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease;
@@ -68,3 +68,4 @@ body, .top {
   background-color: #001123;
   color: white;
 }
+
